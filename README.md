@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, This is Seonhyeog Kim, a developers who work hard for a better tomorrow than yesterday</h1>
-<h3 align="left">choices and ersistence</h3>
+<h3 align="left">Slow and Steady Wins the Race</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=sseon000&label=Profile%20views&color=0e75b6&style=flat" alt="sseon000" /> 
@@ -13,9 +13,8 @@
 <br />
 
 <div>
-  <img src="https://img.shields.io/github/followers/dasom222g?style=social" alt="github followers" height="24" />
+  <img src="https://img.shields.io/github/followers/sseon000?style=social" alt="github followers" height="24" />
 </div>
-<br />
 
 <h3 align="left">📖Languages and Tools:</h3>
 <p align="left"> 
