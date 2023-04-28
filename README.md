@@ -1,15 +1,15 @@
-<h1 align="left">Hi 👋, This is Seonhyeog Kim, a developers who work hard for a better tomorrow than yesterday</h1>
+<h1 align="left">안녕하세요. 👋, </h1>
 <h3 align="left">Slow and Steady Wins the Race</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=sseon000&label=Profile%20views&color=0e75b6&style=flat" alt="sseon000" /> 
 </p>
 
-- 🔭 I’m currently working on **investment company in digital marketing solution team**
+- 🔭 현재 **NH투자증권 나무마케팅부 CMS시스템 유지보수 및 고도화업무를 담당하고 있습니다.**
 
-- 🌱 I’m currently learning **programming language, js**
+- 🌱 요즘은 **Javascript, react를 공부하고 있습니다.**
 
-- 📫 How to reach me **rlatjsgur000@naver.com**
+- 📫 Email : **rlatjsgur000@naver.com**
 <br />
 
 <div>
