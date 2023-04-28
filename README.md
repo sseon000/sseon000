@@ -1,4 +1,4 @@
-<h1 align="left">안녕하세요. 👋, </h1>
+<h1 align="left">안녕하세요. 👋, 꾸준히 성장하는 개발자 김선혁입니다.</h1>
 <h3 align="left">Slow and Steady Wins the Race</h3>
 
 <p align="left"> 
