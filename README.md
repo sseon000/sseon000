@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=sseon000&label=Profile%20views&color=0e75b6&style=flat" alt="sseon000" /> 
 </p>
 
-- 🔭 현재 **SM계약직으로 NH투자증권 나무마케팅부 CMS시스템 유지보수 및 고도화업무를 담당하고 있습니다.**
+- 🔭 현재 **디비인포 회사에 재직중이며, NH투자증권 나무마케팅부 CMS시스템 유지보수 및 고도화업무를 담당하고 있습니다.**
 
 - 🌱 요즘은 **Javascript, react를 공부하고 있습니다.**
 
