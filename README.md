@@ -12,8 +12,9 @@ Slow and Steady Wins the Race<br /><br />
 > 🔭 현재 **증권사 CRM시스템 유지보수 및 고도화 업무를 하고있습니다.** <br />
 > 🌱 요즘은 **JavaScript, React를 공부하고 있습니다.** <br />
 > 📫 Email : **rlatjsgur000@naver.com**<br />
+/*
 > <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="20px" alt="Notion"> Notion : [Notion Page](https://maze-burrito-70a.notion.site/87885f45c27543d6a5fc3f570ecd8fa5?pvs=4)
-
+*/
 <br />
 
 ## 📖 Skills
